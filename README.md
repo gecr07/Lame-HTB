@@ -45,7 +45,7 @@ searchsploit vsftpd 2.3.4
 Copiar el exploit a la carpeta de trabajo.
 
 ```
-searchsploit unix/remote/49757.py
+searchsploit -m unix/remote/49757.py
 ```
 
 Para ver el contenido del exploit
